@@ -6,6 +6,7 @@ This repository contains Yook marketing tools and assets for your e-commerce sto
 
 * [/images](images) - all image-based assets
   * [/badges](images/badges) - badges for your storefront
+  * [/graphics](images/graphics) - graphics for Yook-related sections of the shopping experience
   * [/logos](images/logos) - Yook logos and logo elements
 
 # How assets are provided
@@ -32,7 +33,8 @@ For example: `badge-en-150@2x.png`
 
 Yook badge
 
-<img src="/images/badges/yook-badge-en-150@2x.png" width="150" style="margin-right:20px"> <img src="/images/badges/yook-badge-de-150@2x.png" width="150" style="margin-right:20px">
+<img src="/images/badges/yook-badge-en-150@2x.png" width="150" style="margin-right:20px">
+<img src="/images/badges/yook-badge-de-150@2x.png" width="150" style="margin-right:20px">
 
 ## Graphics
 
@@ -70,8 +72,6 @@ Yook logo, gray:
 
 Yook logo, white:
 
-<div style="background-color: #333; padding: 20px">
-  <img src="/images/logos/logo-white-300@2x.png" width="300" style="margin-right:20px">
-  <img src="/images/logos/logo-white-150@2x.png" width="150" style="margin-right:20px">
-  <img src="/images/logos/logo-white-75@2x.png" width="75" style="margin-right:20px">
-</div>
+<img src="/images/logos/logo-white-300@2x.png" width="300" style="margin-right:20px">
+<img src="/images/logos/logo-white-150@2x.png" width="150" style="margin-right:20px">
+<img src="/images/logos/logo-white-75@2x.png" width="75" style="margin-right:20px">

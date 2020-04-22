@@ -32,8 +32,7 @@ For example: `badge-en-150@2x.png`
 
 Yook badge
 
-<img src="/images/badges/yook-badge-en-150@2x.png" width="150" style="margin-right:20px">
-<img src="/images/badges/yook-badge-de-150@2x.png" width="150" style="margin-right:20px">
+<img src="/images/badges/yook-badge-en-150@2x.png" width="150" style="margin-right:20px"> <img src="/images/badges/yook-badge-de-150@2x.png" width="150" style="margin-right:20px">
 
 ## Graphics
 
